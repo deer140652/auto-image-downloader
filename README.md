@@ -14,7 +14,7 @@ Auto Image Downloader 是一款以 **C# Windows Forms** 開發的、
 ---
 
 ## 使用者介面
- <img src="assets/ui.png" width="350">
+ <img src="image/ui.png" width="350">
 ---
 
 ## 系統功能
